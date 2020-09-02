@@ -30,3 +30,12 @@ Vue.use(VueComponentTest)
 <script src="https://unpkg.com/rodrigopecci/vue-component-test"></script>
 ```
 
+<!-- The API section is auto generated, don't touch please -->
+
+## API
+
+### vue-component-test 
+
+#### props 
+
+- `param` ***String*** (*optional*) `default: ''` 
